@@ -2,7 +2,7 @@
 
 Hypothesis: As we approach infinity, the convergence of all the numbers is 8
 
-In this projects, digits of numbers are being multiplied recursively until they end up at one digit, which I call the convergence on the number.
+In this project, digits of numbers are being multiplied recursively until they end up at one digit, which I call the convergence on the number.
 
 Products with 0 are ignored
 
